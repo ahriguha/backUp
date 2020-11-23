@@ -1,0 +1,12 @@
+C:\Users\Root\source\repos\qrCoDeGeneRatorr\qrCoDeGeneRatorr\bin\Release\QRCoder.dll
+C:\Users\Root\source\repos\qrCoDeGeneRatorr\qrCoDeGeneRatorr\obj\Release\qrCoDeGeneRatorr.Form1.resources
+C:\Users\Root\source\repos\qrCoDeGeneRatorr\qrCoDeGeneRatorr\obj\Release\qrCoDeGeneRatorr.Properties.Resources.resources
+C:\Users\Root\source\repos\qrCoDeGeneRatorr\qrCoDeGeneRatorr\obj\Release\qrCoDeGeneRatorr.csproj.GenerateResource.cache
+C:\Users\Root\source\repos\qrCoDeGeneRatorr\qrCoDeGeneRatorr\obj\Release\qrCoDeGeneRatorr.csproj.CoreCompileInputs.cache
+C:\Users\Root\source\repos\qrCoDeGeneRatorr\qrCoDeGeneRatorr\obj\Release\qrCoDeGeneRatorr.csproj.CopyComplete
+C:\Users\Root\source\repos\qrCoDeGeneRatorr\qrCoDeGeneRatorr\obj\Release\qrCoDeGeneRatorr.csprojAssemblyReference.cache
+C:\Users\Root\source\repos\qrCoDeGeneRatorr\qrCoDeGeneRatorr\bin\Release\qrCoDeGeneRatorr.exe.config
+C:\Users\Root\source\repos\qrCoDeGeneRatorr\qrCoDeGeneRatorr\bin\Release\qrCoDeGeneRatorr.exe
+C:\Users\Root\source\repos\qrCoDeGeneRatorr\qrCoDeGeneRatorr\bin\Release\qrCoDeGeneRatorr.pdb
+C:\Users\Root\source\repos\qrCoDeGeneRatorr\qrCoDeGeneRatorr\obj\Release\qrCoDeGeneRatorr.exe
+C:\Users\Root\source\repos\qrCoDeGeneRatorr\qrCoDeGeneRatorr\obj\Release\qrCoDeGeneRatorr.pdb

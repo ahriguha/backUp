@@ -1,0 +1,14 @@
+C:\Users\Root\source\repos\AndroidXamarinTestApp\AndroidXamarinTestApp\AndroidXamarinTestApp\bin\Release\netstandard2.0\AndroidXamarinTestApp.deps.json
+C:\Users\Root\source\repos\AndroidXamarinTestApp\AndroidXamarinTestApp\AndroidXamarinTestApp\bin\Release\netstandard2.0\AndroidXamarinTestApp.dll
+C:\Users\Root\source\repos\AndroidXamarinTestApp\AndroidXamarinTestApp\AndroidXamarinTestApp\bin\Release\netstandard2.0\ref\AndroidXamarinTestApp.dll
+C:\Users\Root\source\repos\AndroidXamarinTestApp\AndroidXamarinTestApp\AndroidXamarinTestApp\bin\Release\netstandard2.0\AndroidXamarinTestApp.pdb
+C:\Users\Root\source\repos\AndroidXamarinTestApp\AndroidXamarinTestApp\AndroidXamarinTestApp\obj\Release\netstandard2.0\AndroidXamarinTestApp.csprojAssemblyReference.cache
+C:\Users\Root\source\repos\AndroidXamarinTestApp\AndroidXamarinTestApp\AndroidXamarinTestApp\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\Root\source\repos\AndroidXamarinTestApp\AndroidXamarinTestApp\AndroidXamarinTestApp\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Root\source\repos\AndroidXamarinTestApp\AndroidXamarinTestApp\AndroidXamarinTestApp\obj\Release\netstandard2.0\AndroidXamarinTestApp.csproj.CoreCompileInputs.cache
+C:\Users\Root\source\repos\AndroidXamarinTestApp\AndroidXamarinTestApp\AndroidXamarinTestApp\obj\Release\netstandard2.0\AndroidXamarinTestApp.AssemblyInfoInputs.cache
+C:\Users\Root\source\repos\AndroidXamarinTestApp\AndroidXamarinTestApp\AndroidXamarinTestApp\obj\Release\netstandard2.0\AndroidXamarinTestApp.AssemblyInfo.cs
+C:\Users\Root\source\repos\AndroidXamarinTestApp\AndroidXamarinTestApp\AndroidXamarinTestApp\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\Root\source\repos\AndroidXamarinTestApp\AndroidXamarinTestApp\AndroidXamarinTestApp\obj\Release\netstandard2.0\AndroidXamarinTestApp.dll
+C:\Users\Root\source\repos\AndroidXamarinTestApp\AndroidXamarinTestApp\AndroidXamarinTestApp\obj\Release\netstandard2.0\ref\AndroidXamarinTestApp.dll
+C:\Users\Root\source\repos\AndroidXamarinTestApp\AndroidXamarinTestApp\AndroidXamarinTestApp\obj\Release\netstandard2.0\AndroidXamarinTestApp.pdb

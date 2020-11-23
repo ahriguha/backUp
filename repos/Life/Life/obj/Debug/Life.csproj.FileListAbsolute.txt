@@ -1,0 +1,10 @@
+C:\Users\Root\source\repos\Life\Life\bin\Debug\Life.exe.config
+C:\Users\Root\source\repos\Life\Life\bin\Debug\Life.exe
+C:\Users\Root\source\repos\Life\Life\bin\Debug\Life.pdb
+C:\Users\Root\source\repos\Life\Life\obj\Debug\Life.csprojAssemblyReference.cache
+C:\Users\Root\source\repos\Life\Life\obj\Debug\Life.Form1.resources
+C:\Users\Root\source\repos\Life\Life\obj\Debug\Life.Properties.Resources.resources
+C:\Users\Root\source\repos\Life\Life\obj\Debug\Life.csproj.GenerateResource.cache
+C:\Users\Root\source\repos\Life\Life\obj\Debug\Life.csproj.CoreCompileInputs.cache
+C:\Users\Root\source\repos\Life\Life\obj\Debug\Life.exe
+C:\Users\Root\source\repos\Life\Life\obj\Debug\Life.pdb

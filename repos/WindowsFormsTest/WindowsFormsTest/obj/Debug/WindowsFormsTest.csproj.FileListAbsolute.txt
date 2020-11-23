@@ -1,0 +1,15 @@
+C:\Users\Root\source\repos\WindowsFormsTest\WindowsFormsTest\bin\Debug\WindowsFormsTest.exe.config
+C:\Users\Root\source\repos\WindowsFormsTest\WindowsFormsTest\bin\Debug\WindowsFormsTest.exe
+C:\Users\Root\source\repos\WindowsFormsTest\WindowsFormsTest\bin\Debug\WindowsFormsTest.pdb
+C:\Users\Root\source\repos\WindowsFormsTest\WindowsFormsTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Root\source\repos\WindowsFormsTest\WindowsFormsTest\bin\Debug\Telegram.Bot.dll
+C:\Users\Root\source\repos\WindowsFormsTest\WindowsFormsTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Root\source\repos\WindowsFormsTest\WindowsFormsTest\bin\Debug\Telegram.Bot.xml
+C:\Users\Root\source\repos\WindowsFormsTest\WindowsFormsTest\obj\Debug\WindowsFormsTest.csprojAssemblyReference.cache
+C:\Users\Root\source\repos\WindowsFormsTest\WindowsFormsTest\obj\Debug\WindowsFormsTest.Form1.resources
+C:\Users\Root\source\repos\WindowsFormsTest\WindowsFormsTest\obj\Debug\WindowsFormsTest.Properties.Resources.resources
+C:\Users\Root\source\repos\WindowsFormsTest\WindowsFormsTest\obj\Debug\WindowsFormsTest.csproj.GenerateResource.cache
+C:\Users\Root\source\repos\WindowsFormsTest\WindowsFormsTest\obj\Debug\WindowsFormsTest.csproj.CoreCompileInputs.cache
+C:\Users\Root\source\repos\WindowsFormsTest\WindowsFormsTest\obj\Debug\WindowsFormsTest.csproj.CopyComplete
+C:\Users\Root\source\repos\WindowsFormsTest\WindowsFormsTest\obj\Debug\WindowsFormsTest.exe
+C:\Users\Root\source\repos\WindowsFormsTest\WindowsFormsTest\obj\Debug\WindowsFormsTest.pdb

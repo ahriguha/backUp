@@ -1,0 +1,14 @@
+C:\Users\Root\source\repos\Warehouse Manager\Warehouse Manager\bin\x64\Release\Warehouse.accdb
+C:\Users\Root\source\repos\Warehouse Manager\Warehouse Manager\bin\x64\Release\Warehouse Manager.exe.config
+C:\Users\Root\source\repos\Warehouse Manager\Warehouse Manager\bin\x64\Release\Warehouse Manager.exe
+C:\Users\Root\source\repos\Warehouse Manager\Warehouse Manager\bin\x64\Release\Warehouse Manager.pdb
+C:\Users\Root\source\repos\Warehouse Manager\Warehouse Manager\obj\x64\Release\Warehouse Manager.csprojAssemblyReference.cache
+C:\Users\Root\source\repos\Warehouse Manager\Warehouse Manager\obj\x64\Release\Warehouse_Manager.Form4.resources
+C:\Users\Root\source\repos\Warehouse Manager\Warehouse Manager\obj\x64\Release\Warehouse_Manager.Form1.resources
+C:\Users\Root\source\repos\Warehouse Manager\Warehouse Manager\obj\x64\Release\Warehouse_Manager.Form3.resources
+C:\Users\Root\source\repos\Warehouse Manager\Warehouse Manager\obj\x64\Release\Warehouse_Manager.Form2.resources
+C:\Users\Root\source\repos\Warehouse Manager\Warehouse Manager\obj\x64\Release\Warehouse_Manager.Properties.Resources.resources
+C:\Users\Root\source\repos\Warehouse Manager\Warehouse Manager\obj\x64\Release\Warehouse Manager.csproj.GenerateResource.cache
+C:\Users\Root\source\repos\Warehouse Manager\Warehouse Manager\obj\x64\Release\Warehouse Manager.csproj.CoreCompileInputs.cache
+C:\Users\Root\source\repos\Warehouse Manager\Warehouse Manager\obj\x64\Release\Warehouse Manager.exe
+C:\Users\Root\source\repos\Warehouse Manager\Warehouse Manager\obj\x64\Release\Warehouse Manager.pdb

@@ -1,0 +1,17 @@
+C:\Users\Root\source\repos\sqlite5\sqlite5\bin\Debug\sqlite5.exe.config
+C:\Users\Root\source\repos\sqlite5\sqlite5\bin\Debug\sqlite5.exe
+C:\Users\Root\source\repos\sqlite5\sqlite5\bin\Debug\sqlite5.pdb
+C:\Users\Root\source\repos\sqlite5\sqlite5\bin\Debug\EntityFramework.dll
+C:\Users\Root\source\repos\sqlite5\sqlite5\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Root\source\repos\sqlite5\sqlite5\bin\Debug\System.Data.SQLite.dll
+C:\Users\Root\source\repos\sqlite5\sqlite5\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Root\source\repos\sqlite5\sqlite5\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Root\source\repos\sqlite5\sqlite5\bin\Debug\EntityFramework.xml
+C:\Users\Root\source\repos\sqlite5\sqlite5\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Root\source\repos\sqlite5\sqlite5\bin\Debug\System.Data.SQLite.xml
+C:\Users\Root\source\repos\sqlite5\sqlite5\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Root\source\repos\sqlite5\sqlite5\obj\Debug\sqlite5.csprojAssemblyReference.cache
+C:\Users\Root\source\repos\sqlite5\sqlite5\obj\Debug\sqlite5.csproj.CoreCompileInputs.cache
+C:\Users\Root\source\repos\sqlite5\sqlite5\obj\Debug\sqlite5.csproj.CopyComplete
+C:\Users\Root\source\repos\sqlite5\sqlite5\obj\Debug\sqlite5.exe
+C:\Users\Root\source\repos\sqlite5\sqlite5\obj\Debug\sqlite5.pdb

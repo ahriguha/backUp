@@ -1,0 +1,14 @@
+C:\Users\Root\source\repos\lab1_2\lab1_2\lab1_2\bin\Release\netstandard2.0\lab1_2.deps.json
+C:\Users\Root\source\repos\lab1_2\lab1_2\lab1_2\bin\Release\netstandard2.0\lab1_2.dll
+C:\Users\Root\source\repos\lab1_2\lab1_2\lab1_2\bin\Release\netstandard2.0\ref\lab1_2.dll
+C:\Users\Root\source\repos\lab1_2\lab1_2\lab1_2\bin\Release\netstandard2.0\lab1_2.pdb
+C:\Users\Root\source\repos\lab1_2\lab1_2\lab1_2\obj\Release\netstandard2.0\lab1_2.csprojAssemblyReference.cache
+C:\Users\Root\source\repos\lab1_2\lab1_2\lab1_2\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\Root\source\repos\lab1_2\lab1_2\lab1_2\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Root\source\repos\lab1_2\lab1_2\lab1_2\obj\Release\netstandard2.0\lab1_2.csproj.CoreCompileInputs.cache
+C:\Users\Root\source\repos\lab1_2\lab1_2\lab1_2\obj\Release\netstandard2.0\lab1_2.AssemblyInfoInputs.cache
+C:\Users\Root\source\repos\lab1_2\lab1_2\lab1_2\obj\Release\netstandard2.0\lab1_2.AssemblyInfo.cs
+C:\Users\Root\source\repos\lab1_2\lab1_2\lab1_2\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\Root\source\repos\lab1_2\lab1_2\lab1_2\obj\Release\netstandard2.0\lab1_2.dll
+C:\Users\Root\source\repos\lab1_2\lab1_2\lab1_2\obj\Release\netstandard2.0\ref\lab1_2.dll
+C:\Users\Root\source\repos\lab1_2\lab1_2\lab1_2\obj\Release\netstandard2.0\lab1_2.pdb

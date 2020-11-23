@@ -1,0 +1,10 @@
+C:\Users\Root\source\repos\FuzzyLog8\FuzzyLog7\bin\Debug\FuzzyLog8.exe.config
+C:\Users\Root\source\repos\FuzzyLog8\FuzzyLog7\bin\Debug\FuzzyLog8.exe
+C:\Users\Root\source\repos\FuzzyLog8\FuzzyLog7\bin\Debug\FuzzyLog8.pdb
+C:\Users\Root\source\repos\FuzzyLog8\FuzzyLog7\obj\Debug\FuzzyLog8.csprojAssemblyReference.cache
+C:\Users\Root\source\repos\FuzzyLog8\FuzzyLog7\obj\Debug\FuzzyLog7.Form1.resources
+C:\Users\Root\source\repos\FuzzyLog8\FuzzyLog7\obj\Debug\FuzzyLog8.Properties.Resources.resources
+C:\Users\Root\source\repos\FuzzyLog8\FuzzyLog7\obj\Debug\FuzzyLog8.csproj.GenerateResource.cache
+C:\Users\Root\source\repos\FuzzyLog8\FuzzyLog7\obj\Debug\FuzzyLog8.csproj.CoreCompileInputs.cache
+C:\Users\Root\source\repos\FuzzyLog8\FuzzyLog7\obj\Debug\FuzzyLog8.exe
+C:\Users\Root\source\repos\FuzzyLog8\FuzzyLog7\obj\Debug\FuzzyLog8.pdb

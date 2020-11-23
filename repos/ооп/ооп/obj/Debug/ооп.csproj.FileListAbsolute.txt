@@ -1,0 +1,6 @@
+C:\Users\Root\source\repos\ооп\ооп\bin\Debug\ооп.exe.config
+C:\Users\Root\source\repos\ооп\ооп\bin\Debug\ооп.exe
+C:\Users\Root\source\repos\ооп\ооп\bin\Debug\ооп.pdb
+C:\Users\Root\source\repos\ооп\ооп\obj\Debug\ооп.csprojAssemblyReference.cache
+C:\Users\Root\source\repos\ооп\ооп\obj\Debug\ооп.exe
+C:\Users\Root\source\repos\ооп\ооп\obj\Debug\ооп.pdb

@@ -1,0 +1,9 @@
+C:\Users\Root\source\repos\FuzzyLogic5\FuzzyLogic5\obj\Debug\FuzzyLogic5.csprojAssemblyReference.cache
+C:\Users\Root\source\repos\FuzzyLogic5\FuzzyLogic5\obj\Debug\FuzzyLogic5.Properties.Resources.resources
+C:\Users\Root\source\repos\FuzzyLogic5\FuzzyLogic5\obj\Debug\FuzzyLogic5.csproj.GenerateResource.cache
+C:\Users\Root\source\repos\FuzzyLogic5\FuzzyLogic5\bin\Debug\FuzzyLogic5.exe.config
+C:\Users\Root\source\repos\FuzzyLogic5\FuzzyLogic5\bin\Debug\FuzzyLogic5.exe
+C:\Users\Root\source\repos\FuzzyLogic5\FuzzyLogic5\bin\Debug\FuzzyLogic5.pdb
+C:\Users\Root\source\repos\FuzzyLogic5\FuzzyLogic5\obj\Debug\FuzzyLogic5.exe
+C:\Users\Root\source\repos\FuzzyLogic5\FuzzyLogic5\obj\Debug\FuzzyLogic5.pdb
+C:\Users\Root\source\repos\FuzzyLogic5\FuzzyLogic5\obj\Debug\FuzzyLogic2.Form1.resources

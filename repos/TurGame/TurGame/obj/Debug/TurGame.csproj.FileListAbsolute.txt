@@ -1,0 +1,11 @@
+C:\Users\Root\source\repos\TurGame\TurGame\bin\Debug\TurGame.exe.config
+C:\Users\Root\source\repos\TurGame\TurGame\bin\Debug\TurGame.exe
+C:\Users\Root\source\repos\TurGame\TurGame\bin\Debug\TurGame.pdb
+C:\Users\Root\source\repos\TurGame\TurGame\obj\Debug\TurGame.csprojAssemblyReference.cache
+C:\Users\Root\source\repos\TurGame\TurGame\obj\Debug\TurGame.Form1.resources
+C:\Users\Root\source\repos\TurGame\TurGame\obj\Debug\TurGame.Properties.Resources.resources
+C:\Users\Root\source\repos\TurGame\TurGame\obj\Debug\TurGame.csproj.GenerateResource.cache
+C:\Users\Root\source\repos\TurGame\TurGame\obj\Debug\TurGame.exe
+C:\Users\Root\source\repos\TurGame\TurGame\obj\Debug\TurGame.pdb
+C:\Users\Root\source\repos\TurGame\TurGame\obj\Debug\TurGame.Form2.resources
+C:\Users\Root\source\repos\TurGame\TurGame\obj\Debug\TurGame.Form3.resources

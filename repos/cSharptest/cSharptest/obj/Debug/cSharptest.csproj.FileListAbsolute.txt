@@ -1,0 +1,12 @@
+C:\Users\Root\source\repos\cSharptest\cSharptest\bin\Debug\cSharptest.exe.config
+C:\Users\Root\source\repos\cSharptest\cSharptest\bin\Debug\cSharptest.exe
+C:\Users\Root\source\repos\cSharptest\cSharptest\bin\Debug\cSharptest.pdb
+C:\Users\Root\source\repos\cSharptest\cSharptest\obj\Debug\cSharptest.csprojAssemblyReference.cache
+C:\Users\Root\source\repos\cSharptest\cSharptest\obj\Debug\cSharptest.exe
+C:\Users\Root\source\repos\cSharptest\cSharptest\obj\Debug\cSharptest.pdb
+C:\Users\Root\source\repos\cSharptest\cSharptest\obj\Debug\cSharptest.csproj.CoreCompileInputs.cache
+C:\Users\Root\source\repos\cSharptest\cSharptest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Root\source\repos\cSharptest\cSharptest\bin\Debug\Telegram.Bot.dll
+C:\Users\Root\source\repos\cSharptest\cSharptest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Root\source\repos\cSharptest\cSharptest\bin\Debug\Telegram.Bot.xml
+C:\Users\Root\source\repos\cSharptest\cSharptest\obj\Debug\cSharptest.csproj.CopyComplete

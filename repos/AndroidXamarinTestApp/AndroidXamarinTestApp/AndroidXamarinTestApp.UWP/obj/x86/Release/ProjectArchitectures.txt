@@ -1,0 +1,1 @@
+C:\Users\Root\source\repos\AndroidXamarinTestApp\AndroidXamarinTestApp\AndroidXamarinTestApp.UWP\AndroidXamarinTestApp.UWP.csproj;x86

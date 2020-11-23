@@ -1,0 +1,10 @@
+C:\Users\Root\source\repos\FuzzyLog\FuzzyLog\bin\Release\FuzzyLog.exe.config
+C:\Users\Root\source\repos\FuzzyLog\FuzzyLog\bin\Release\FuzzyLog.exe
+C:\Users\Root\source\repos\FuzzyLog\FuzzyLog\bin\Release\FuzzyLog.pdb
+C:\Users\Root\source\repos\FuzzyLog\FuzzyLog\obj\Release\FuzzyLog.csprojAssemblyReference.cache
+C:\Users\Root\source\repos\FuzzyLog\FuzzyLog\obj\Release\FuzzyLog.Form1.resources
+C:\Users\Root\source\repos\FuzzyLog\FuzzyLog\obj\Release\FuzzyLog.Form2.resources
+C:\Users\Root\source\repos\FuzzyLog\FuzzyLog\obj\Release\FuzzyLog.Properties.Resources.resources
+C:\Users\Root\source\repos\FuzzyLog\FuzzyLog\obj\Release\FuzzyLog.csproj.GenerateResource.cache
+C:\Users\Root\source\repos\FuzzyLog\FuzzyLog\obj\Release\FuzzyLog.exe
+C:\Users\Root\source\repos\FuzzyLog\FuzzyLog\obj\Release\FuzzyLog.pdb

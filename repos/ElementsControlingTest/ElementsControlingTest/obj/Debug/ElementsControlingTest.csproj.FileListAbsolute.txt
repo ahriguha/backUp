@@ -1,0 +1,10 @@
+C:\Users\Root\source\repos\ElementsControlingTest\ElementsControlingTest\obj\Debug\ElementsControlingTest.csprojAssemblyReference.cache
+C:\Users\Root\source\repos\ElementsControlingTest\ElementsControlingTest\obj\Debug\ElementsControlingTest.Form1.resources
+C:\Users\Root\source\repos\ElementsControlingTest\ElementsControlingTest\obj\Debug\ElementsControlingTest.Properties.Resources.resources
+C:\Users\Root\source\repos\ElementsControlingTest\ElementsControlingTest\obj\Debug\ElementsControlingTest.csproj.GenerateResource.cache
+C:\Users\Root\source\repos\ElementsControlingTest\ElementsControlingTest\obj\Debug\ElementsControlingTest.csproj.CoreCompileInputs.cache
+C:\Users\Root\source\repos\ElementsControlingTest\ElementsControlingTest\bin\Debug\ElementsControlingTest.exe.config
+C:\Users\Root\source\repos\ElementsControlingTest\ElementsControlingTest\bin\Debug\ElementsControlingTest.exe
+C:\Users\Root\source\repos\ElementsControlingTest\ElementsControlingTest\bin\Debug\ElementsControlingTest.pdb
+C:\Users\Root\source\repos\ElementsControlingTest\ElementsControlingTest\obj\Debug\ElementsControlingTest.exe
+C:\Users\Root\source\repos\ElementsControlingTest\ElementsControlingTest\obj\Debug\ElementsControlingTest.pdb

@@ -1,0 +1,10 @@
+C:\Users\Root\source\repos\DataScienceLab2\DataScienceLab2\bin\Release\DataScienceLab2.exe.config
+C:\Users\Root\source\repos\DataScienceLab2\DataScienceLab2\bin\Release\DataScienceLab2.exe
+C:\Users\Root\source\repos\DataScienceLab2\DataScienceLab2\bin\Release\DataScienceLab2.pdb
+C:\Users\Root\source\repos\DataScienceLab2\DataScienceLab2\obj\Release\DataScienceLab2.csprojAssemblyReference.cache
+C:\Users\Root\source\repos\DataScienceLab2\DataScienceLab2\obj\Release\DataScienceLab2.Form1.resources
+C:\Users\Root\source\repos\DataScienceLab2\DataScienceLab2\obj\Release\DataScienceLab2.Properties.Resources.resources
+C:\Users\Root\source\repos\DataScienceLab2\DataScienceLab2\obj\Release\DataScienceLab2.csproj.GenerateResource.cache
+C:\Users\Root\source\repos\DataScienceLab2\DataScienceLab2\obj\Release\DataScienceLab2.csproj.CoreCompileInputs.cache
+C:\Users\Root\source\repos\DataScienceLab2\DataScienceLab2\obj\Release\DataScienceLab2.exe
+C:\Users\Root\source\repos\DataScienceLab2\DataScienceLab2\obj\Release\DataScienceLab2.pdb

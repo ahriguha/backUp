@@ -1,0 +1,12 @@
+﻿/ref:"C:\Users\Root\source\repos\AndroidXamarinTestApp\AndroidXamarinTestApp\AndroidXamarinTestApp.UWP\obj\x86\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"C:\Users\Root\.nuget\packages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.1.8\tools\SharedLibrary\ret\AnalysisILToc"
+/ref:"C:\Users\Root\source\repos\AndroidXamarinTestApp\AndroidXamarinTestApp\AndroidXamarinTestApp.UWP\obj\x86\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"C:\Users\Root\source\repos\AndroidXamarinTestApp\AndroidXamarinTestApp\AndroidXamarinTestApp.UWP\obj\x86\Release\ilc\in\\"
+/ref:"C:\Users\Root\.nuget\packages\runtime.win10-x86.microsoft.net.native.compiler\2.1.8\tools\x86\ilc\lib\Private\\"
+/ref:"C:\Users\Root\source\repos\AndroidXamarinTestApp\AndroidXamarinTestApp\AndroidXamarinTestApp.UWP\obj\x86\Release\ilc\in"
+/ref:"C:\Users\Root\source\repos\AndroidXamarinTestApp\AndroidXamarinTestApp\AndroidXamarinTestApp.UWP\obj\x86\Release\ilc\in\WinMetadata"
+/ca:System.Private.CoreLib
+/cscpath:"C:\Users\Root\.nuget\packages\microsoft.net.native.compiler\2.1.8\tools\csc"
+/out:"C:\Users\Root\source\repos\AndroidXamarinTestApp\AndroidXamarinTestApp\AndroidXamarinTestApp.UWP\obj\x86\Release\ilc\intermediate\SgGenerated\\"
+/int:"C:\Users\Root\source\repos\AndroidXamarinTestApp\AndroidXamarinTestApp\AndroidXamarinTestApp.UWP\obj\x86\Release\ilc\intermediate\AndroidXamarinTestApp.UWP.Sg"
+"@C:\Users\Root\source\repos\AndroidXamarinTestApp\AndroidXamarinTestApp\AndroidXamarinTestApp.UWP\obj\x86\Release\ilc\intermediate\AndroidXamarinTestApp.UWP.Sg\ComputedSerializationInput.txt"

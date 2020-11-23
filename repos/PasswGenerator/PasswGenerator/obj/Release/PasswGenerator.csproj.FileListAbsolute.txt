@@ -1,0 +1,10 @@
+C:\Users\Root\source\repos\PasswGenerator\PasswGenerator\bin\Release\PasswGenerator.exe.config
+C:\Users\Root\source\repos\PasswGenerator\PasswGenerator\bin\Release\PasswGenerator.exe
+C:\Users\Root\source\repos\PasswGenerator\PasswGenerator\bin\Release\PasswGenerator.pdb
+C:\Users\Root\source\repos\PasswGenerator\PasswGenerator\obj\Release\PasswGenerator.Form1.resources
+C:\Users\Root\source\repos\PasswGenerator\PasswGenerator\obj\Release\PasswGenerator.Properties.Resources.resources
+C:\Users\Root\source\repos\PasswGenerator\PasswGenerator\obj\Release\PasswGenerator.csproj.GenerateResource.cache
+C:\Users\Root\source\repos\PasswGenerator\PasswGenerator\obj\Release\PasswGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Root\source\repos\PasswGenerator\PasswGenerator\obj\Release\PasswGenerator.exe
+C:\Users\Root\source\repos\PasswGenerator\PasswGenerator\obj\Release\PasswGenerator.pdb
+C:\Users\Root\source\repos\PasswGenerator\PasswGenerator\obj\Release\PasswGenerator.csprojAssemblyReference.cache

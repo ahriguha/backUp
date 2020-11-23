@@ -1,0 +1,18 @@
+C:\Users\Root\source\repos\FuzzyLogic2\FuzzyLogic2\bin\Debug\FuzzyLogic2.exe.config
+C:\Users\Root\source\repos\FuzzyLogic2\FuzzyLogic2\bin\Debug\FuzzyLogic2.exe
+C:\Users\Root\source\repos\FuzzyLogic2\FuzzyLogic2\bin\Debug\FuzzyLogic2.pdb
+C:\Users\Root\source\repos\FuzzyLogic2\FuzzyLogic2\obj\Debug\FuzzyLogic2.csprojAssemblyReference.cache
+C:\Users\Root\source\repos\FuzzyLogic2\FuzzyLogic2\obj\Debug\FuzzyLogic2.Form1.resources
+C:\Users\Root\source\repos\FuzzyLogic2\FuzzyLogic2\obj\Debug\FuzzyLogic2.Properties.Resources.resources
+C:\Users\Root\source\repos\FuzzyLogic2\FuzzyLogic2\obj\Debug\FuzzyLogic2.csproj.GenerateResource.cache
+C:\Users\Root\source\repos\FuzzyLogic2\FuzzyLogic2\obj\Debug\FuzzyLogic2.exe
+C:\Users\Root\source\repos\FuzzyLogic2\FuzzyLogic2\obj\Debug\FuzzyLogic2.pdb
+C:\Users\Mi Pro\Desktop\FuzzyLogic2\FuzzyLogic2\obj\Debug\FuzzyLogic2.csprojAssemblyReference.cache
+C:\Users\Mi Pro\Desktop\FuzzyLogic2\FuzzyLogic2\obj\Debug\FuzzyLogic2.Form1.resources
+C:\Users\Mi Pro\Desktop\FuzzyLogic2\FuzzyLogic2\obj\Debug\FuzzyLogic2.Properties.Resources.resources
+C:\Users\Mi Pro\Desktop\FuzzyLogic2\FuzzyLogic2\obj\Debug\FuzzyLogic2.csproj.GenerateResource.cache
+C:\Users\Mi Pro\Desktop\FuzzyLogic2\FuzzyLogic2\obj\Debug\FuzzyLogic2.exe
+C:\Users\Mi Pro\Desktop\FuzzyLogic2\FuzzyLogic2\obj\Debug\FuzzyLogic2.pdb
+C:\Users\Mi Pro\Desktop\FuzzyLogic2\FuzzyLogic2\bin\Debug\FuzzyLogic2.exe.config
+C:\Users\Mi Pro\Desktop\FuzzyLogic2\FuzzyLogic2\bin\Debug\FuzzyLogic2.exe
+C:\Users\Mi Pro\Desktop\FuzzyLogic2\FuzzyLogic2\bin\Debug\FuzzyLogic2.pdb

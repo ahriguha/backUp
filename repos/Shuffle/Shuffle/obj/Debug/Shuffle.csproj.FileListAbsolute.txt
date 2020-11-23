@@ -1,0 +1,9 @@
+C:\Users\Root\source\repos\Shuffle\Shuffle\bin\Debug\Shuffle.exe.config
+C:\Users\Root\source\repos\Shuffle\Shuffle\bin\Debug\Shuffle.exe
+C:\Users\Root\source\repos\Shuffle\Shuffle\bin\Debug\Shuffle.pdb
+C:\Users\Root\source\repos\Shuffle\Shuffle\obj\Debug\Shuffle.csprojAssemblyReference.cache
+C:\Users\Root\source\repos\Shuffle\Shuffle\obj\Debug\Shuffle.Form1.resources
+C:\Users\Root\source\repos\Shuffle\Shuffle\obj\Debug\Shuffle.Properties.Resources.resources
+C:\Users\Root\source\repos\Shuffle\Shuffle\obj\Debug\Shuffle.csproj.GenerateResource.cache
+C:\Users\Root\source\repos\Shuffle\Shuffle\obj\Debug\Shuffle.exe
+C:\Users\Root\source\repos\Shuffle\Shuffle\obj\Debug\Shuffle.pdb

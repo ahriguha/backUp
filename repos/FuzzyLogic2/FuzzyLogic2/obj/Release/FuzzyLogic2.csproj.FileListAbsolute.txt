@@ -1,0 +1,9 @@
+C:\Users\Root\source\repos\FuzzyLogic2\FuzzyLogic2\bin\Release\FuzzyLogic2.exe.config
+C:\Users\Root\source\repos\FuzzyLogic2\FuzzyLogic2\bin\Release\FuzzyLogic2.exe
+C:\Users\Root\source\repos\FuzzyLogic2\FuzzyLogic2\bin\Release\FuzzyLogic2.pdb
+C:\Users\Root\source\repos\FuzzyLogic2\FuzzyLogic2\obj\Release\FuzzyLogic2.csprojAssemblyReference.cache
+C:\Users\Root\source\repos\FuzzyLogic2\FuzzyLogic2\obj\Release\FuzzyLogic2.Form1.resources
+C:\Users\Root\source\repos\FuzzyLogic2\FuzzyLogic2\obj\Release\FuzzyLogic2.Properties.Resources.resources
+C:\Users\Root\source\repos\FuzzyLogic2\FuzzyLogic2\obj\Release\FuzzyLogic2.csproj.GenerateResource.cache
+C:\Users\Root\source\repos\FuzzyLogic2\FuzzyLogic2\obj\Release\FuzzyLogic2.exe
+C:\Users\Root\source\repos\FuzzyLogic2\FuzzyLogic2\obj\Release\FuzzyLogic2.pdb

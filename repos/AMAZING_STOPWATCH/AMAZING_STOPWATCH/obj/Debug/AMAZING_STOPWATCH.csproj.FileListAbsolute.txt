@@ -1,0 +1,15 @@
+C:\Users\Root\source\repos\AMAZING_STOPWATCH\AMAZING_STOPWATCH\bin\Debug\AMAZING_STOPWATCH.exe.config
+C:\Users\Root\source\repos\AMAZING_STOPWATCH\AMAZING_STOPWATCH\bin\Debug\AMAZING_STOPWATCH.exe
+C:\Users\Root\source\repos\AMAZING_STOPWATCH\AMAZING_STOPWATCH\bin\Debug\AMAZING_STOPWATCH.pdb
+C:\Users\Root\source\repos\AMAZING_STOPWATCH\AMAZING_STOPWATCH\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Root\source\repos\AMAZING_STOPWATCH\AMAZING_STOPWATCH\obj\Debug\AMAZING_STOPWATCH.csprojAssemblyReference.cache
+C:\Users\Root\source\repos\AMAZING_STOPWATCH\AMAZING_STOPWATCH\obj\Debug\AMAZING_STOPWATCH.Form1.resources
+C:\Users\Root\source\repos\AMAZING_STOPWATCH\AMAZING_STOPWATCH\obj\Debug\AMAZING_STOPWATCH.Properties.Resources.resources
+C:\Users\Root\source\repos\AMAZING_STOPWATCH\AMAZING_STOPWATCH\obj\Debug\AMAZING_STOPWATCH.csproj.GenerateResource.cache
+C:\Users\Root\source\repos\AMAZING_STOPWATCH\AMAZING_STOPWATCH\obj\Debug\AMAZING_STOPWATCH.csproj.CoreCompileInputs.cache
+C:\Users\Root\source\repos\AMAZING_STOPWATCH\AMAZING_STOPWATCH\obj\Debug\AMAZING_STOPWATCH.csproj.CopyComplete
+C:\Users\Root\source\repos\AMAZING_STOPWATCH\AMAZING_STOPWATCH\obj\Debug\AMAZING_STOPWATCH.exe
+C:\Users\Root\source\repos\AMAZING_STOPWATCH\AMAZING_STOPWATCH\obj\Debug\AMAZING_STOPWATCH.pdb
+C:\Users\Root\source\repos\AMAZING_STOPWATCH\AMAZING_STOPWATCH\obj\Debug\AMAZING_STOPWATCH.StopwatchForm.resources
+C:\Users\Root\source\repos\AMAZING_STOPWATCH\AMAZING_STOPWATCH\obj\Debug\AMAZING_STOPWATCH.SettingsForm.resources
+C:\Users\Root\source\repos\AMAZING_STOPWATCH\AMAZING_STOPWATCH\obj\Debug\AMAZING_STOPWATCH.WorldTimeForm.resources

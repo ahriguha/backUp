@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="lab1_2.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="Группы факультета компьютерных наук:"
+               FontSize="Large"
+           HorizontalOptions="Center"
+           VerticalOptions="Start" />
+        <Picker x:Name="picker1" SelectedIndexChanged="picker1_SelectedIndexChanged" Title="Группы:">
+            <Picker.Items>
+                <x:String>301</x:String>
+                <x:String>302</x:String>
+                <x:String>303</x:String>
+            </Picker.Items>
+        </Picker>
+        <Button 
+            x:Name="button1" 
+            Text="Показать список группы" 
+            Clicked="button1_Clicked"
+            />
+         <Label 
+            x:Name="listLabel" 
+             Text="Press the button" 
+             HorizontalOptions="Center"
+             />
+        <Button
+            x:Name ="button2"
+            Text ="Перейти к списку"
+            VerticalOptions ="End"
+            Clicked="button2_Clicked"
+            />
+
+
+    </StackLayout>
+
+</ContentPage>
+

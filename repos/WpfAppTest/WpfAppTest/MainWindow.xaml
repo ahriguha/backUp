@@ -1,0 +1,59 @@
+﻿<Window x:Class="WpfAppTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppTest" xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="207" Width="300"
+        Background="{DynamicResource WinBgBrush}">
+    <Window.Resources>
+        <sys:String x:Key="ComboBoxTitle">Items:</sys:String>
+
+        <x:Array x:Key="ComboBoxItems" Type="sys:String">
+            <sys:String>A 1</sys:String>
+            <sys:String>A 2</sys:String>
+            <sys:String>A 3</sys:String>
+            <sys:String>B 1</sys:String>
+            <sys:String>B 2</sys:String>
+        </x:Array>
+
+        <LinearGradientBrush x:Key="WinBgBrush">
+            <GradientStop Offset="0" Color="Aquamarine"/>
+            <GradientStop Offset="1" Color="AliceBlue"/>
+        </LinearGradientBrush>
+
+        <Style x:Key="test" TargetType="Button">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Name="ButtonBorder" CornerRadius="360" BorderThickness="1" BorderBrush="Gray" Background="{DynamicResource ButtBg}" >
+                            <ContentPresenter Content="{TemplateBinding Content}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+
+
+    <StackPanel Margin="10">
+        <Label Content="{StaticResource ComboBoxTitle}"/>
+        <ComboBox ItemsSource="{StaticResource ComboBoxItems}" Name="comboBox1"/>
+        <Button Margin="0,10,90,10"  Click="Button_Click" HorizontalAlignment="Right" Width="89" RenderTransformOrigin="0.5,0.5" Height="86">
+
+            <Button.Resources>
+                <LinearGradientBrush x:Key="ButtBg">
+                    <GradientStop Offset="0" Color="DarkSalmon"/>
+                    <GradientStop Offset="1" Color="#FFAA23B8"/>
+                </LinearGradientBrush>
+            </Button.Resources>
+
+            <Button.Style>
+                <StaticResource ResourceKey="test"/>
+            </Button.Style>
+            <TextBlock><Run Text="Nazhmi menya"/></TextBlock>
+
+        </Button>
+    </StackPanel>
+</Window>
